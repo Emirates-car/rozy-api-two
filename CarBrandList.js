@@ -63,13 +63,13 @@ export const CarBrandList = [
     id: 11,
     logo: "bmw.png",
     name: "BMW",
-    alt: "car battery shop sharjah",
+    alt: "Auto spare parts in dubai",
   },
   {
     id: 12,
     logo: "bugatti.png",
     name: "Bugatti",
-    alt: "car battery price dubai",
+    alt: "Auto spare parts in dubai",
   },
   {
     id: 13,
@@ -255,13 +255,13 @@ export const CarBrandList = [
     id: 44,
     logo: "jaguar.png",
     name: "Jaguar",
-    alt: "car battery shop sharjah",
+    alt: "Auto spare parts in dubai",
   },
   {
     id: 45,
     logo: "jeep.png",
     name: "Jeep",
-    alt: "car battery price dubai",
+    alt: "Auto spare parts in dubai",
   },
   {
     id: 46,
@@ -400,7 +400,7 @@ export const CarBrandList = [
     id: 69,
     logo: "nissan.png",
     name: "Nissan",
-    alt: "car battery price dubai",
+    alt: "Auto spare parts in dubai",
   },
   {
     id: 70,
