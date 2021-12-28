@@ -2,18 +2,17 @@ import { google } from "googleapis";
 
 async function handler(req, res) {
   if (req.method === "POST") {
-    const {
-      Timestamp,
-      whatsappno,
-      email,
-      make,
-      model,
-      year,
-      partnumber,
-      partname,
-      city,
-      refno,
-    } = req.body;
+    const Timestamp = req.body.Timestamp;
+    const whatsappno = req.body.whatsappno;
+    const email = req.body.email;
+    const make = req.body.make;
+    const model = req.body.model;
+    const year = req.body.year;
+    const partnumber = req.body.partnumber;
+    const partname = req.body.partname;
+    const city = req.body.city;
+    const refno = req.body.refno;
+
     console.log(
       Timestamp,
       whatsappno,
