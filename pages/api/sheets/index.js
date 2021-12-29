@@ -1,4 +1,5 @@
 import { google } from "googleapis";
+const sheets = google.sheets("v4");
 
 async function handler(req, res) {
   if (req.method === "POST") {
@@ -26,28 +27,20 @@ async function handler(req, res) {
       refno
     );
 
-    const auth = new google.auth.GoogleAuth({
-      credentials: {
-        client_email: process.env.CLIENT_EMAIL,
-        client_id: process.env.CLIENT_ID,
-        private_key: process.env.PRIVATE_KEY.replace(/\\n/g, "\n"),
-      },
-      scopes: [
-        "https://www.googleapis.com/auth/drive",
-        "https://www.googleapis.com/auth/drive.file",
-        "https://www.googleapis.com/auth/spreadsheets",
-      ],
-    });
-
-    const sheets = google.sheets({
-      auth,
-      version: "v4",
-    });
+    const scopes = ["https://www.googleapis.com/auth/spreadsheets"];
+    const jwt = new google.auth.JWT(
+      process.env.GOOGLE_SHEETS_FORMS_CLIENT_EMAIL,
+      null,
+      process.env.GOOGLE_SHEETS_FORMS_PRIVATE_KEY.replace(/\\n/g, "\n"),
+      scopes,
+      null
+    );
 
     const response = await sheets.spreadsheets.values.append({
       spreadsheetId: process.env.DATABASE_ID,
-      range: "Sheet1",
+      range: "asp-haksit",
       valueInputOption: "USER_ENTERED",
+      auth: jwt,
       requestBody: {
         values: [
           [
@@ -66,9 +59,10 @@ async function handler(req, res) {
       },
     });
 
-    res.status(201).json({ message: "It works!", response });
+    res.status(201).json(data);
+  } else {
+    res.status(200).json({ message: "error" });
   }
-  res.status(200).json({ message: "Hey" });
 }
 
 export default handler;
