@@ -1,31 +1,31 @@
 export const PARTS = [
   {
     ID: 1,
-    PARTS: "A/C Compressor",
+    PARTS: "AC Compressor",
   },
   {
     ID: 2,
-    PARTS: "A/C Condenser",
+    PARTS: "AC Condenser",
   },
   {
     ID: 3,
-    PARTS: "A/C Condenser Cooling Fan",
+    PARTS: "AC Condenser Cooling Fan",
   },
   {
     ID: 4,
-    PARTS: "A/C Controls",
+    PARTS: "AC Controls",
   },
   {
     ID: 5,
-    PARTS: "A/C Evaporator",
+    PARTS: "AC Evaporator",
   },
   {
     ID: 6,
-    PARTS: "A/C Evaporator Housing",
+    PARTS: "AC Evaporator Housing",
   },
   {
     ID: 7,
-    PARTS: "A/C Selector",
+    PARTS: "AC Selector",
   },
   {
     ID: 8,
@@ -329,7 +329,7 @@ export const PARTS = [
   },
   {
     ID: 83,
-    PARTS: "Door Motor (Power Slider/Tailgate, Van)",
+    PARTS: "Door Motor (Power Slider|Tailgate, Van)",
   },
   {
     ID: 84,
@@ -513,7 +513,7 @@ export const PARTS = [
   },
   {
     ID: 129,
-    PARTS: "Headlight Bezel/Door",
+    PARTS: "Headlight Bezel|Door",
   },
   {
     ID: 130,
@@ -549,7 +549,7 @@ export const PARTS = [
   },
   {
     ID: 138,
-    PARTS: "Hood Piston/Strut",
+    PARTS: "Hood Piston|Strut",
   },
   {
     ID: 139,
@@ -689,7 +689,7 @@ export const PARTS = [
   },
   {
     ID: 173,
-    PARTS: "Pickup Cap/Topper",
+    PARTS: "Pickup Cap|Topper",
   },
   {
     ID: 174,
@@ -801,7 +801,7 @@ export const PARTS = [
   },
   {
     ID: 201,
-    PARTS: "Seat (3rd Row or Bed, Wagon/Van/SUV)",
+    PARTS: "Seat (3rd Row or Bed, Wagon|Van|SUV)",
   },
   {
     ID: 202,
