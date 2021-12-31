@@ -288,7 +288,7 @@ export const carLogos = [
   },
   {
     id: 68,
-    logo: "spyker cars.png",
+    logo: "spyker.png",
     name: "Spyker Cars",
     alt: "Auto spare parts in uae",
   },
