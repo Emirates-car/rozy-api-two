@@ -3309,7 +3309,7 @@ export const CARS = [
     id: 634,
     year: 1988,
     make: "Audi",
-    model: "80%2F90",
+    model: "80|90",
   },
   {
     id: 631,
@@ -4929,7 +4929,7 @@ export const CARS = [
     id: 841,
     year: 1990,
     make: "Nissan",
-    model: "Datsun%2FNissan Z-car",
+    model: "Datsun|Nissan Z-car",
   },
   {
     id: 840,
@@ -8007,7 +8007,7 @@ export const CARS = [
     id: 1361,
     year: 1993,
     make: "Dodge",
-    model: "Viper RT%2F10",
+    model: "Viper RT|10",
   },
   {
     id: 1489,
@@ -9753,7 +9753,7 @@ export const CARS = [
     id: 1621,
     year: 1994,
     make: "Dodge",
-    model: "Viper RT%2F10",
+    model: "Viper RT|10",
   },
   {
     id: 1606,
@@ -11367,7 +11367,7 @@ export const CARS = [
     id: 1936,
     year: 1995,
     make: "Dodge",
-    model: "Viper RT%2F10",
+    model: "Viper RT|10",
   },
   {
     id: 2017,
@@ -36249,7 +36249,7 @@ export const CARS = [
     id: 5992,
     year: 2009,
     make: "Kia",
-    model: "Mohave%2FBorrego",
+    model: "Mohave|Borrego",
   },
   {
     id: 5987,
@@ -42909,7 +42909,7 @@ export const CARS = [
     id: 7209,
     year: 2012,
     make: "Ram",
-    model: "C%2FV",
+    model: "C|V",
   },
   {
     id: 7198,
@@ -47511,7 +47511,7 @@ export const CARS = [
     id: 7919,
     year: 2014,
     make: "Ram",
-    model: "C%2FV",
+    model: "C|V",
   },
   {
     id: 7920,
@@ -47751,7 +47751,7 @@ export const CARS = [
     id: 7959,
     year: 2014,
     make: "Toyota",
-    model: "Camry Hybrid XLE%2FSE",
+    model: "Camry Hybrid XLE|SE",
   },
   {
     id: 7960,
@@ -52011,7 +52011,7 @@ export const CARS = [
     id: 8669,
     year: 2015,
     make: "Ram",
-    model: "C%2FV Tradesman",
+    model: "C|V Tradesman",
   },
   {
     id: 8670,
@@ -52263,7 +52263,7 @@ export const CARS = [
     id: 8711,
     year: 2015,
     make: "Toyota",
-    model: "Camry Hybrid XLE%2FSE",
+    model: "Camry Hybrid XLE|SE",
   },
   {
     id: 8712,
@@ -52347,7 +52347,7 @@ export const CARS = [
     id: 8725,
     year: 2015,
     make: "Toyota",
-    model: "RAV4 LE%2FXLE",
+    model: "RAV4 LE|XLE",
   },
   {
     id: 8726,
@@ -62109,7 +62109,7 @@ export const CARS = [
     id: 10352,
     year: 2017,
     make: "Toyota",
-    model: "Camry Hybrid XLE%2FSE",
+    model: "Camry Hybrid XLE|SE",
   },
   {
     id: 10353,
@@ -62163,7 +62163,7 @@ export const CARS = [
     id: 10361,
     year: 2017,
     make: "Toyota",
-    model: "Highlander LE%2FXLE%2FSE%2FLTD",
+    model: "Highlander LE|XLE|SE|LTD",
   },
   {
     id: 10362,
@@ -62223,13 +62223,13 @@ export const CARS = [
     id: 10371,
     year: 2017,
     make: "Toyota",
-    model: "RAV4 LE%2FXLE",
+    model: "RAV4 LE|XLE",
   },
   {
     id: 10372,
     year: 2017,
     make: "Toyota",
-    model: "RAV4 Limited AWD%2FSE AWD",
+    model: "RAV4 Limited AWD|SE AWD",
   },
   {
     id: 10373,
@@ -64245,7 +64245,7 @@ export const CARS = [
     id: 10708,
     year: 2018,
     make: "Ford",
-    model: "F150 Pickup 4WD XL%2FXLT",
+    model: "F150 Pickup 4WD XL|XLT",
   },
   {
     id: 10709,
@@ -64563,7 +64563,7 @@ export const CARS = [
     id: 10761,
     year: 2018,
     make: "Honda",
-    model: "Accord 2.0T Sport%2FTouring",
+    model: "Accord 2.0T Sport|Touring",
   },
   {
     id: 10762,
@@ -67317,7 +67317,7 @@ export const CARS = [
     id: 11220,
     year: 2018,
     make: "RUF Automobile",
-    model: "RUF TURBO 12%2FCTR3",
+    model: "RUF TURBO 12|CTR3",
   },
   {
     id: 11221,
@@ -67521,19 +67521,19 @@ export const CARS = [
     id: 11254,
     year: 2018,
     make: "Toyota",
-    model: "Camry Hybrid XLE%2FSE",
+    model: "Camry Hybrid XLE|SE",
   },
   {
     id: 11255,
     year: 2018,
     make: "Toyota",
-    model: "Camry LE%2FSE",
+    model: "Camry LE|SE",
   },
   {
     id: 11256,
     year: 2018,
     make: "Toyota",
-    model: "Camry XLE%2FXSE",
+    model: "Camry XLE|XSE",
   },
   {
     id: 11257,
@@ -67593,7 +67593,7 @@ export const CARS = [
     id: 11266,
     year: 2018,
     make: "Toyota",
-    model: "Highlander LE%2FXLE%2FSE%2FLTD",
+    model: "Highlander LE|XLE|SE|LTD",
   },
   {
     id: 11267,
@@ -67647,13 +67647,13 @@ export const CARS = [
     id: 11275,
     year: 2018,
     make: "Toyota",
-    model: "RAV4 LE%2FXLE",
+    model: "RAV4 LE|XLE",
   },
   {
     id: 11276,
     year: 2018,
     make: "Toyota",
-    model: "RAV4 Limited AWD%2FSE AWD",
+    model: "RAV4 Limited AWD|SE AWD",
   },
   {
     id: 11277,
@@ -69603,7 +69603,7 @@ export const CARS = [
     id: 11601,
     year: 2019,
     make: "Ford",
-    model: "F150 Pickup 4WD XL%2FXLT",
+    model: "F150 Pickup 4WD XL|XLT",
   },
   {
     id: 11602,
@@ -69951,7 +69951,7 @@ export const CARS = [
     id: 11659,
     year: 2019,
     make: "Honda",
-    model: "Accord 2.0T Sport%2FTouring",
+    model: "Accord 2.0T Sport|Touring",
   },
   {
     id: 11660,
@@ -72153,13 +72153,13 @@ export const CARS = [
     id: 12026,
     year: 2019,
     make: "Nissan",
-    model: "Altima AWD SR%2FPlatinum",
+    model: "Altima AWD SR|Platinum",
   },
   {
     id: 12027,
     year: 2019,
     make: "Nissan",
-    model: "Altima SR%2FPlatinum",
+    model: "Altima SR|Platinum",
   },
   {
     id: 12028,
@@ -72225,7 +72225,7 @@ export const CARS = [
     id: 12038,
     year: 2019,
     make: "Nissan",
-    model: "Leaf SV%2FSL (62 kW-hr battery pack)",
+    model: "Leaf SV|SL (62 kW-hr battery pack)",
   },
   {
     id: 12039,
@@ -72783,7 +72783,7 @@ export const CARS = [
     id: 12131,
     year: 2019,
     make: "RUF Automobile",
-    model: "RUFTURBO12%2FCTR3%2FCTR2017",
+    model: "RUFTURBO12|CTR3|CTR2017",
   },
   {
     id: 12132,
@@ -72813,7 +72813,7 @@ export const CARS = [
     id: 12136,
     year: 2019,
     make: "Subaru",
-    model: "Ascent Limited%2FTouring",
+    model: "Ascent Limited|Touring",
   },
   {
     id: 12137,
@@ -73053,19 +73053,19 @@ export const CARS = [
     id: 12176,
     year: 2019,
     make: "Toyota",
-    model: "Camry Hybrid XLE%2FSE",
+    model: "Camry Hybrid XLE|SE",
   },
   {
     id: 12177,
     year: 2019,
     make: "Toyota",
-    model: "Camry LE%2FSE",
+    model: "Camry LE|SE",
   },
   {
     id: 12178,
     year: 2019,
     make: "Toyota",
-    model: "Camry XLE%2FXSE",
+    model: "Camry XLE|XSE",
   },
   {
     id: 12179,
@@ -73131,7 +73131,7 @@ export const CARS = [
     id: 12189,
     year: 2019,
     make: "Toyota",
-    model: "Highlander LE%2FXLE%2FSE%2FLTD",
+    model: "Highlander LE|XLE|SE|LTD",
   },
   {
     id: 12190,
@@ -75003,7 +75003,7 @@ export const CARS = [
     id: 12501,
     year: 2020,
     make: "Ford",
-    model: "F150 Pickup 4WD XL%2FXLT",
+    model: "F150 Pickup 4WD XL|XLT",
   },
   {
     id: 12502,
@@ -75291,7 +75291,7 @@ export const CARS = [
     id: 12549,
     year: 2020,
     make: "Honda",
-    model: "Accord 2.0T Sport%2FTouring",
+    model: "Accord 2.0T Sport|Touring",
   },
   {
     id: 12550,
@@ -77493,13 +77493,13 @@ export const CARS = [
     id: 12916,
     year: 2020,
     make: "Nissan",
-    model: "Altima AWD SR%2FPlatinum",
+    model: "Altima AWD SR|Platinum",
   },
   {
     id: 12917,
     year: 2020,
     make: "Nissan",
-    model: "Altima SR%2FPlatinum",
+    model: "Altima SR|Platinum",
   },
   {
     id: 12918,
@@ -77553,7 +77553,7 @@ export const CARS = [
     id: 12926,
     year: 2020,
     make: "Nissan",
-    model: "Leaf SV%2FSL (62 kW-hr battery pack)",
+    model: "Leaf SV|SL (62 kW-hr battery pack)",
   },
   {
     id: 12927,
@@ -78099,7 +78099,7 @@ export const CARS = [
     id: 13017,
     year: 2020,
     make: "RUF Automobile",
-    model: "TURBO12%2FCTR3%2FCTR ANNIVERSARY",
+    model: "TURBO12|CTR3|CTR ANNIVERSARY",
   },
   {
     id: 13018,
@@ -78111,7 +78111,7 @@ export const CARS = [
     id: 13019,
     year: 2020,
     make: "Subaru",
-    model: "Ascent Limited%2FTouring",
+    model: "Ascent Limited|Touring",
   },
   {
     id: 13020,
@@ -80451,13 +80451,13 @@ export const CARS = [
     id: 13409,
     year: 2021,
     make: "Honda",
-    model: "Accord Hybrid Sport%2FTouring",
+    model: "Accord Hybrid Sport|Touring",
   },
   {
     id: 13410,
     year: 2021,
     make: "Honda",
-    model: "Accord Sport%2FTouring",
+    model: "Accord Sport|Touring",
   },
   {
     id: 13411,
@@ -82467,7 +82467,7 @@ export const CARS = [
     id: 13745,
     year: 2021,
     make: "Nissan",
-    model: "Altima AWD SR%2FPlatinum",
+    model: "Altima AWD SR|Platinum",
   },
   {
     id: 13746,
@@ -82479,13 +82479,13 @@ export const CARS = [
     id: 13747,
     year: 2021,
     make: "Nissan",
-    model: "Altima SR%2FPlatinum",
+    model: "Altima SR|Platinum",
   },
   {
     id: 13748,
     year: 2021,
     make: "Nissan",
-    model: "Altima SV%2FSL",
+    model: "Altima SV|SL",
   },
   {
     id: 13749,
@@ -82539,7 +82539,7 @@ export const CARS = [
     id: 13757,
     year: 2021,
     make: "Nissan",
-    model: "Leaf SV%2FSL (62 kW-hr battery pack)",
+    model: "Leaf SV|SL (62 kW-hr battery pack)",
   },
   {
     id: 13758,
@@ -82575,13 +82575,13 @@ export const CARS = [
     id: 13764,
     year: 2021,
     make: "Nissan",
-    model: "Rogue AWD SL%2FPlatinum",
+    model: "Rogue AWD SL|Platinum",
   },
   {
     id: 13763,
     year: 2021,
     make: "Nissan",
-    model: "Rogue AWD SV%2FSL%2FPlatinum",
+    model: "Rogue AWD SV|SL|Platinum",
   },
   {
     id: 13765,
@@ -82593,13 +82593,13 @@ export const CARS = [
     id: 13767,
     year: 2021,
     make: "Nissan",
-    model: "Rogue FWD SL%2FPlatinum",
+    model: "Rogue FWD SL|Platinum",
   },
   {
     id: 13766,
     year: 2021,
     make: "Nissan",
-    model: "Rogue FWD SV%2FSL%2FPlatinum",
+    model: "Rogue FWD SV|SL|Platinum",
   },
   {
     id: 13768,
@@ -83181,7 +83181,7 @@ export const CARS = [
     id: 13864,
     year: 2021,
     make: "Subaru",
-    model: "Ascent Limited%2FTouring",
+    model: "Ascent Limited|Touring",
   },
   {
     id: 13865,
@@ -83385,13 +83385,13 @@ export const CARS = [
     id: 13898,
     year: 2021,
     make: "Toyota",
-    model: "Camry AWD LE%2FSE",
+    model: "Camry AWD LE|SE",
   },
   {
     id: 13899,
     year: 2021,
     make: "Toyota",
-    model: "Camry AWD XLE%2FXSE",
+    model: "Camry AWD XLE|XSE",
   },
   {
     id: 13900,
@@ -83403,13 +83403,13 @@ export const CARS = [
     id: 13901,
     year: 2021,
     make: "Toyota",
-    model: "Camry Hybrid SE%2FXLE%2FXSE",
+    model: "Camry Hybrid SE|XLE|XSE",
   },
   {
     id: 13902,
     year: 2021,
     make: "Toyota",
-    model: "Camry LE%2FSE",
+    model: "Camry LE|SE",
   },
   {
     id: 13903,
@@ -83421,7 +83421,7 @@ export const CARS = [
     id: 13904,
     year: 2021,
     make: "Toyota",
-    model: "Camry XLE%2FXSE",
+    model: "Camry XLE|XSE",
   },
   {
     id: 13905,
@@ -83505,7 +83505,7 @@ export const CARS = [
     id: 13918,
     year: 2021,
     make: "Toyota",
-    model: "Highlander Hybrid AWD LTD%2FPLAT",
+    model: "Highlander Hybrid AWD LTD|PLAT",
   },
   {
     id: 13919,
@@ -83613,7 +83613,7 @@ export const CARS = [
     id: 13936,
     year: 2021,
     make: "Toyota",
-    model: "Tacoma 4WD D-CAB MT TRD-ORP%2FPRO",
+    model: "Tacoma 4WD D-CAB MT TRD-ORP|PRO",
   },
   {
     id: 13937,
