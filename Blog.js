@@ -15,7 +15,7 @@ export const BLOG = [
     TITLE: "Ferrari F8 Spider 2021",
     CONTENT:
       "<p className=\"text-lg text-gray-800 py-4 sm:mt-5 sm:text-xs md:mt-5 md:text-sm lg:mx-0 lg:text-base xs:text-xs xl:text-lg 2xs:text-xs px-5 text-justify\">F8 Spider is the drop top version of F8 tributo which is the replacement of ferrari 488 gtb. According to ferrari, its slightly less hardcore version of 488 pista. This car was built to celebrate ferrari's V8 Engine. It all started back from 308, 3-2-8, 3-4-8, 3-5-5, 3-6-0, 4-3-0, 4-5-8 and the first turbo charged car came with 4-8-8 and now we have f8. The engine is 8000 rpm turbo charged engine. Th FRONT AIR DUCT at the front which helps all imporatnt downforce on the car when driving. UPWASHING SPOLIER SUCTION to increase the vertical load. It has REAR FLUX DEFLECTORS which reduces dragging. Flat underbody with new FRONT DIFFUSER increased aero efficiency and more efficient brake cooling. It has also got UNDER BODY VORTOX generators to increase vertical load for a good downforce. REAR DIFFUSER with active aerodynamics to maximise performance in both corners and straight lines. NEW FRONT RADIATORS LAYOUT derived from 488 challenge improved cooling and reduced drag 15% air temperature entering the engine to support power increase. F8 spider costs from 2,25,000 pounds. This car has 1,00,000 pounds of optional extras fit to it.</p>",
-    IMG: "ferrari_f8_spider_2021",
+    IMG: "ferrari_f8_spider_2021.png",
     AUTHOR: "Emirates_car",
     ALT: "ferrari f8 spider 2021",
     TIME: "8 min read",
@@ -26,7 +26,7 @@ export const BLOG = [
     TITLE: "Ferrari F8 Spider 2022",
     CONTENT:
       "<p className=\"text-lg text-gray-800 py-4 sm:mt-5 sm:text-xs md:mt-5 md:text-sm lg:mx-0 lg:text-base xs:text-xs xl:text-lg 2xs:text-xs px-5 text-justify\">The price of f8 spider 2022 is $3,50,000 USD. 3.9L twin-turbo v8 engine. 710 HP and 568 LB-FT Torque. 0-6 MPH in 2.9 Seconds. Top speed is 211 MPH. The size of the tire is 305/30 R20. The Ferrari's engine hits a pleasantly sonorous note as it does its work, and the brakes do a masterful job of bringing it to a swift halt. This Ferrari is quick enough to make an indelible impression. The F8 Tributo and Spider are rated at 15 mpg in the city and between 18 and 19 mpg on the highway. The cabin's most notable shortcoming concerns rearward visibility in the coupe. The view out the back is impeded by the rear window's louvers. Many exotics are very low on cargo space, and the F8 is no exception. Cargo capacity stands at seven cubic feet in the coupe.</p>",
-    IMG: "ferrari_f8_spider_2022",
+    IMG: "ferrari_f8_spider_2022.png",
     AUTHOR: "Emirates_car",
     ALT: "ferrari f8 spider 2022",
     TIME: "10 min read",
