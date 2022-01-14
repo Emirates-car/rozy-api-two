@@ -22563,7 +22563,7 @@ export const CARS = [
     id: 3683,
     year: 2002,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 3641,
@@ -24273,7 +24273,7 @@ export const CARS = [
     id: 4016,
     year: 2003,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 4024,
@@ -26001,7 +26001,7 @@ export const CARS = [
     id: 4383,
     year: 2004,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 4386,
@@ -27849,7 +27849,7 @@ export const CARS = [
     id: 4686,
     year: 2005,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 4674,
@@ -29979,7 +29979,7 @@ export const CARS = [
     id: 5128,
     year: 2006,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 5040,
@@ -32067,7 +32067,7 @@ export const CARS = [
     id: 5474,
     year: 2007,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 5478,
@@ -34149,19 +34149,19 @@ export const CARS = [
     id: 5698,
     year: 2008,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 5700,
     year: 2008,
     make: "Lamborghini",
-    model: "Murciélago LP640",
+    model: "Murcielago LP640",
   },
   {
     id: 5697,
     year: 2008,
     make: "Lamborghini",
-    model: "Reventón",
+    model: "Reventon",
   },
   {
     id: 5681,
@@ -36303,7 +36303,7 @@ export const CARS = [
     id: 6056,
     year: 2009,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcielago",
   },
   {
     id: 6113,
@@ -38379,7 +38379,7 @@ export const CARS = [
     id: 6529,
     year: 2010,
     make: "Lamborghini",
-    model: "Murciélago",
+    model: "Murcelago",
   },
   {
     id: 6542,
