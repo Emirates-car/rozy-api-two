@@ -247,7 +247,7 @@ export const cities = [
   },
   {
     id: 42,
-    city: "Khalifa City/Abu Dhabi",
+    city: "Khalifa City - Abu Dhabi",
     link: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116252.34425308705!2d54.503048329369754!3d24.420036134431356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4665e784b025%3A0x18856a84d3a5d8bf!2sKhalifa%20City%20-%20Abu%20Dhabi%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1640013733500!5m2!1sen!2sin",
     description:"The Abu Al Bukhoosh field is located around 45 kilometres northeast of Das Island, 180 kilometres north of Abu Dhabi city, and straddles the United Arab Emirates - Iran maritime boundary. The Iranian portion of the field (known as Salman) was discovered in 1965 and its extension into Abu Dhabi was confirmed in 1969. The field is not unitised and has been developed completely independently. Abu Al Bukhoosh produces medium sour crude from Jurassic carbonates and non-associated gas",
   },
