@@ -265,7 +265,7 @@ export const cities = [
   },
   {
     id: 45,
-    city: "Mina Zayed/Abu Dhabi",
+    city: "Mina Zayed - Abu Dhabi",
     link: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29038.797762570157!2d54.369723841452334!3d24.525281939618285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e66de29cbaa17%3A0x9830676b298225a5!2sAl%20Mina%20-%20Mina%20Zayed%20-%20Abu%20Dhabi%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1640013486903!5m2!1sen!2sin",
     description:"The Abu Al Bukhoosh field is located around 45 kilometres northeast of Das Island, 180 kilometres north of Abu Dhabi city, and straddles the United Arab Emirates - Iran maritime boundary. The Iranian portion of the field (known as Salman) was discovered in 1965 and its extension into Abu Dhabi was confirmed in 1969. The field is not unitised and has been developed completely independently. Abu Al Bukhoosh produces medium sour crude from Jurassic carbonates and non-associated gas",
   },
