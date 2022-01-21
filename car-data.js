@@ -122,7 +122,7 @@ export const CARS = [
   {
     id: 22,
     year: 1960,
-    make: "Fairthorpe", img: "fairthorpe.png",
+    make: "Fairthorpe", img: "fairthorpe.jpg",
     model: "Rockette",
   },
   {
