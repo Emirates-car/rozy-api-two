@@ -83849,6 +83849,18 @@ export const CARS = [
     make: "Volvo", img: "volvo.png",
     model: "XC90 FWD",
   },
+  {
+    id: 13976,
+    year: 2021,
+    make: "Nissan", img: "nissan.png",
+    model: "Patrol",
+  },
+  {
+    id: 13977,
+    year: 2021,
+    make: "Toyota", img: "toyota.png",
+    model: "Prado",
+  },
 ];
 
 export const YEAR = [
