@@ -83952,7 +83952,6 @@ export const MAKE = [
   "Fiat",
   "McLaren",
   "BYD",
-  "McLaren Automotive",
   "Mobility Ventures LLC",
   "Pagani",
   "Roush Performance",
