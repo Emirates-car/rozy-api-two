@@ -271,7 +271,7 @@ export const cities = [
   },
   {
     id: 46,
-    city: "Minhaḑ (Dubai)",
+    city: "Minhad (Dubai)",
     link: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14461.06942894422!2d55.3979119204673!3d25.024999343622735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f7c809be0718d%3A0x39adb2ddca104513!2zTWluaGHhuJE!5e0!3m2!1sen!2sin!4v1640013446758!5m2!1sen!2sin",
     description:".",
   },
