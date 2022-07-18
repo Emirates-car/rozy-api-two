@@ -361,7 +361,7 @@ export const parts = [
   },
   {
     id: 61,
-    parts: "Cooling Fans Assembly (Rad. & Cond.)",
+    parts: "Cooling Fans Assembly (Rad & Cond)",
     description: "",
     img: "",
   },
