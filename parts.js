@@ -1960,8 +1960,15 @@ export const parts = [
     img: '',
   },
   {
-    id: 280,
+    id: 281,
     parts: 'Spark Plug',
+    category: '',
+    description: '',
+    img: '',
+  },
+  {
+    id: 282,
+    parts: 'Toe Arms',
     category: '',
     description: '',
     img: '',
