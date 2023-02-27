@@ -63560,7 +63560,7 @@ export const CARS = [
     id: 7940,
     year: 2014,
     make: 'SRT',
-    IMG: 'srt.webp',
+    img: 'srt.webp',
     model: 'Viper',
     description: '.',
   },
