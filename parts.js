@@ -658,7 +658,7 @@ export const parts = [
     img: '',
   },
   {
-    id: 95,
+    id: 951,
     parts: 'Driving Light',
     category: '',
     description: '',
@@ -1309,7 +1309,7 @@ export const parts = [
     img: '',
   },
   {
-    id: 188,
+    id: 1881,
     parts: 'Rear Clip',
     category: '',
     description: '',
