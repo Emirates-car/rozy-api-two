@@ -109,7 +109,7 @@ export const parts = [
     parts: 'Alternator',
     category: '',
     description:
-      'Alternators for all vehicles are manufactured using Quality Standards and 100% end-of-line computerised.',
+      '-',
   },
   {
     id: 17,
@@ -658,7 +658,7 @@ export const parts = [
     img: '',
   },
   {
-    id: 951,
+    id: 95,
     parts: 'Driving Light',
     category: '',
     description: '',
