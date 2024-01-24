@@ -50,7 +50,7 @@ export default function Home() {
               Mobility Ventures LLC MOBILITY VENTURES LLC Pagani PAGANI Roush
               Performance ROUSH PERFORMANCE SRT SRT Genesis GENESIS Karma KARMA
               Koenigsegg KOENIGSEGG RUF Automobile RUF AUTOMOBILE STI STI
-              Polestar POLESTAR Kandi KANDI
+              Polestar POLESTAR Kandi KANDI auto spare parts
             </p>
           </a>
 
@@ -58,7 +58,7 @@ export default function Home() {
             href="https://emirates-car.com/search-by-cities-in-uae"
             className={styles.card}
           >
-            <h2>Automotive spare parts in UAE &rarr;</h2>
+            <h2>Automotive spare parts in UAE, saudi arabia &rarr;</h2>
             <p>Find Car Spare parts Online in UAE</p>
           </a>
 
