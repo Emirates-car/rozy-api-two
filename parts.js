@@ -1183,6 +1183,13 @@ export const parts = [
     img: '',
   },
   {
+    id: 1691,
+    parts: 'Oxygen Sensor',
+    category: '',
+    description: '',
+    img: '',
+  },
+  {
     id: 170,
     parts: "Owner's Manual",
     category: '',
