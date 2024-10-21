@@ -113075,6 +113075,22 @@ export const CARS = [
     model: 'T700',
     description: '.',
   },
+  {
+    id: 14126,
+    year: 2024,
+    make: 'Sandstorm',
+    img: 'sandstorm.webp',
+    model: 'Alreem',
+    description: '.',
+  },
+  {
+    id: 14127,
+    year: 2024,
+    make: 'Sandstorm',
+    img: 'sandstorm.webp',
+    model: 'S24',
+    description: '.',
+  },
 ]
 
 export const YEAR = [
