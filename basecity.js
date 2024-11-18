@@ -1,12 +1,5 @@
 export const basecity = [
   {
-    id: 1,
-    city: 'Total Abu Al Bukhoosh Abu Dhabi',
-    link: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.107542989913!2d54.359002914349425!3d24.48173038423392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e666e82489a7b%3A0x324d19d60283a99d!2sAbu%20Al%20Bukhoush%20St%20-%20Al%20Danah%20-%20Abu%20Dhabi%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1640018976022!5m2!1sen!2sin',
-    description:
-      'The Abu Al Bukhoosh field is located around 45 kilometres northeast of Das Island, 180 kilometres north of Abu Dhabi city, and straddles the United Arab Emirates - Iran maritime boundary.The field is not unitised and has been developed completely independently. Abu Al Bukhoosh produces medium sour crude from Jurassic carbonates and non-associated gas. The Iranian portion of the field (known as Salman) was discovered in 1965 and its extension into Abu Dhabi was confirmed in 1969.',
-  },
-  {
     id: 2,
     city: 'Abu Dhabi',
     link: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d465132.6090253298!2d54.27841778442708!3d24.38657289151084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e440f723ef2b9%3A0xc7cc2e9341971108!2sAbu%20Dhabi%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1640018687052!5m2!1sen!2sin',
