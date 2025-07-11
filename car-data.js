@@ -133831,6 +133831,15 @@ export const CARS = [
     description: ".",
     keyword: ".",
   },
+  {
+    id: 14128,
+    year: 2024,
+    make: "Nissan",
+    img: "nissan.webp",
+    model: "X-trail",
+    description: ".",
+    keyword: ".",
+  },
 ]
 
 export default CARS
